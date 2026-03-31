@@ -1,9 +1,9 @@
-# oss-audit-24bai10860
+# oss-audit-24bsa10202
 # Open Source Audit Project
 
 ## Student Details
-Name: Prateek kumar kuntal
-Roll Number: 24bai10860 
+Name: teesha singh
+Roll Number: 24bsa10202
 
 ## Chosen Software
 Git
